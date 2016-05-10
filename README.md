@@ -1,4 +1,3 @@
 # deploy_flix
 
-TODO: Enter the cookbook description here.
-
+Deploy the Ruby on Rails app (still in development mode)
